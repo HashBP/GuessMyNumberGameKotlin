@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GuessMyNumberGame</string>
+    <string name="Game_Heading">What is your Number?</string>
+    <string name="game_number2">Your Number is 4</string>
+    <string name="Game_button">Reset</string>
+    <string name="game_question">Is your number %d?</string>
+    <string name="TODO">yess</string>
+    <string name="game_success">Your number is %d</string>
+</resources>
